@@ -8,7 +8,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
-  "keywords": [],
+  "keywords": [
+    "basecamp",
+    "bc",
+    "basecamp-api",
+    "basecamp-api-v3",
+    "bc3-api",
+    "Basecamp 4 API"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {

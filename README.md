@@ -426,4 +426,8 @@ All functions return a response object with success, status, data, and message f
 
 ## Support
 
-For support, email timotniellau@gmail.com.
+If you find this project helpful, consider supporting it!
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/SirTim21)
+
+Or donate directly via PayPal: https://www.paypal.me/SirTim21
